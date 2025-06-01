@@ -1,6 +1,6 @@
 # 🚦 Road Accident Analysis Dashboard - Task 3
 
-This repository contains the deliverables for **Task ** of the **Future Interns Data Science & Analytics** internship . The objective of this task was to analyze road accident data to identify high-risk locations, understand causes, and discover trends that can guide safety improvements.
+This repository contains the deliverables for the **Future Interns Data Science & Analytics** internship . The objective of this task was to analyze road accident data to identify high-risk locations, understand causes, and discover trends that can guide safety improvements.
 
 ## 📊 Project Objective
 
